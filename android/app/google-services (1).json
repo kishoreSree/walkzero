@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "332024637065",
+    "project_id": "walkzero0",
+    "storage_bucket": "walkzero0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332024637065:android:44a97ddd501e73a2f20858",
+        "android_client_info": {
+          "package_name": "com.example.walkzero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332024637065-tlvmmdilm9sk95o5c1ljg8qe0bc4kvs1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoJkzFCmwrjhDK5OxXDqbYDxvM4H2hRPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332024637065-tlvmmdilm9sk95o5c1ljg8qe0bc4kvs1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
